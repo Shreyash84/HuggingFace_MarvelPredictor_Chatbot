@@ -1,0 +1,60 @@
+# ==============================
+# Python-related ignores
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.egg-info/
+*.log
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Jupyter / cache files
+.ipynb_checkpoints/
+__pycache__/
+.cache/
+*.sqlite3
+
+# ==============================
+# Environment / Secrets
+# ==============================
+.env
+.env.local
+.env.*
+*.pem
+*.key
+
+# ==============================
+# OS and temporary files
+# ==============================
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+
+# ==============================
+# Build / Distribution
+# ==============================
+build/
+dist/
+*.spec
+
+# ==============================
+# Custom Project Files
+# ==============================
+# Ignore Hugging Face tokens or keys accidentally placed
+hf_*_token.txt
+secret_*.json
