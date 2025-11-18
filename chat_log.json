@@ -154,5 +154,18 @@
             "prompt_tokens_details": null,
             "completion_tokens_details": null
         }
+    },
+    {
+        "timestamp": "2025-11-17 17:54:14",
+        "user": "Tony starc",
+        "assistant": "It seems like you might be referring to Tony Stark, a well-known character from the Marvel Cinematic Universe. Tony Stark is a billionaire industrialist, genius inventor, and philanthropist, best known as the creator of Iron Man. He is portrayed by actor Robert Downey Jr. in the films. Stark's character is defined by his complex personality, often balancing his genius and moral dilemmas, and his contributions to saving the world through advanced technology. (116 tokens)",
+        "response_time_sec": 2.14,
+        "token_usage": {
+            "inputTokens": 30,
+            "outputTokens": 93,
+            "totalTokens": 123,
+            "cacheReadInputTokenCount": 0,
+            "cacheWriteInputTokenCount": 0
+        }
     }
 ]
