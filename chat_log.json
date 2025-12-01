@@ -167,5 +167,18 @@
             "cacheReadInputTokenCount": 0,
             "cacheWriteInputTokenCount": 0
         }
+    },
+    {
+        "timestamp": "2025-12-01 10:57:55",
+        "user": "Tell a story about  captain america",
+        "assistant": "Captain America stood atop the ruined skyscraper, the city below a patchwork of chaos. The war had torn through the streets, but he remained a beacon of hope. With his shield in hand, he leaped into the fray, deflecting bullets and shielding civilians. \"Freedom isn't free!\" he shouted, rallying the resistance. As he faced the enemy's leader, a fierce battle ensued. With a final, powerful throw, he shattered the villain's weapon, restoring peace. The city began to heal, and Captain America, ever vigilant, stood ready for the next threat, a symbol of courage and justice.",
+        "response_time_sec": 2.37,
+        "token_usage": {
+            "inputTokens": 30,
+            "outputTokens": 124,
+            "totalTokens": 154,
+            "cacheReadInputTokenCount": 0,
+            "cacheWriteInputTokenCount": 0
+        }
     }
 ]
